@@ -1,11 +1,10 @@
 ---
 layout: post
-title:App Academy Prep Work Day 1
-date:2017-08-15
+title: "App Academy Prep Work Day 1"
+date: 2017-08-15
 ---
-
-# App Academy Prep Work Day 1
 ## What’s the same between Ruby and Python?
+
 Coming from knowing some Python and Django, I’m expecting I’ll see a lot of similarities in Ruby/Rails. 
 Instead of ‘python’ in the terminal, it’s simply ‘irb’
 `print() = puts ()`
