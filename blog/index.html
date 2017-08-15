@@ -11,7 +11,7 @@ title: Alex Trost's Learning Journal
     <span class="date">{{ post.date | date_to_long_string }}</span>
   </p>
   <div class="content">
-    {{ post.content | truncate_words: 30 | strip_html }}
+    {{ post.content | truncatewords: 25 | strip_html }}
   </div>
 {% endfor %}
 
