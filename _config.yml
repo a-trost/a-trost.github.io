@@ -3,7 +3,7 @@ name: Alexander Trost
 paginate: 5
 paginate_path: "/blog/page:num/"
 url: "http://alexandertrost.com"
-remote_theme: Sylhare/Type-on-Strap
+
 
 # Assets
 sass:
@@ -12,4 +12,4 @@ style:        :compressed
   
 # Build settings
 markdown:       kramdown
-
+remote_theme: Sylhare/Type-on-Strap
