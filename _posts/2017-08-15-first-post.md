@@ -6,8 +6,6 @@ date: 2017-08-15
 
 So this is the first post, serving both as a test of the blog itself as well as a declaration of purpose.
 
-This blog is (mostly) going to act as what I'll call a Learning Journal. As I continue to learn software development this will serve as a place to put down what I've learned, what I'm working on, general progress, thoughts, questions, etc. 
+As I start to write more, I plan on putting things here as a form of showing my work and my thoughts. 
 
-It'll be messy, but it'll help the process. Thanks for taking a look.
-
-Alex
+Often my work will be mediocre and my thoughts wrong. I'm okay with that.
